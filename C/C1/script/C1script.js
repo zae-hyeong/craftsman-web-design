@@ -25,13 +25,11 @@ const bannerSlide = function() {
     let nextBanner = 1;
 
     setInterval(() => {
-        $banners[currentBanner].classList.replace('current', 'old');
-        $banners[nextBanner].classList.replace('next', 'current');
+        $banners[currentBanner].classList.remove('active');
+        $banners[nextBanner].classList.add('active');
 
         currentBanner = nextBanner;
-        nextBanner++;
-        if (nextBanner >= $banners.length) nextBanner = 0;
-        $banners[nextBanner].classList.replace('old', 'next');
+        nextBanner = (nextBanner + 1 < $banners.length) ? nextBanner + 1 : 0;
     }, 3000);
 }
 bannerSlide();
