@@ -1,9 +1,9 @@
 ![제목 없음](https://github.com/zae-hyeong/craftsman-web-design/assets/58213558/c30d690f-5fe3-4297-998c-5ef26b420321)
 <h2>🔗Project Link</h2>
 
-Git Hub Link : <a href="https://github.com/zae-hyeong/craftsman-web-design">zae-hyeong / 웹디자인 기능사</a>
-관련 공부 기록 : <a href="https://battle-loan-cec.notion.site/4a09fd55e6754490a517048d04fc96c8?pvs=4">[HTML+CSS] </a>
-※ 대부분 연습했던 자료는 군용 노트북으로 작성하여 반출이 불가능해서 삭제되었다.
+Git Hub Link : <a href="https://github.com/zae-hyeong/craftsman-web-design">zae-hyeong / 웹디자인 기능사</a><br/>
+관련 공부 기록 : <a href="https://battle-loan-cec.notion.site/4a09fd55e6754490a517048d04fc96c8?pvs=4">[HTML+CSS] </a><br/>
+※ 대부분 연습했던 자료는 군용 노트북으로 작성하여 반출이 불가능해서 삭제되었다.<br/>
 
 <h2>🤔Problem Statement</h2>
 
